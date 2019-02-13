@@ -22,7 +22,7 @@ int main()
 	cout << "Enter the number of miles: " << endl;
 	cin >> intMiles;
 
-	// Here is the equation used to convert miles into kilometers
+	// Here is the equation used to convert miles into kilometers with setprecision, setw, and setfill
 	cout << fixed;
 	dblKilometers = intMiles * dblDistance;
 	cout << "The total distance in kilometers is: " << setprecision(3) << setw(10) << setfill('#') << dblKilometers << endl;
