@@ -1,5 +1,7 @@
 // JAGPhoneBook.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
+//Jonathan Gamez
+//ITSE 1307
 
 #include "pch.h"
 #include <iostream>
